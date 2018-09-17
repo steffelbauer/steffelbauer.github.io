@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: David B. Steffelbauer
+email: d.b.steffelbauer@tudelft.nl
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -10,27 +10,28 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+url: https://github.com/steffelbauer/steffelbauer@github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
+github_username: steffelbauer # your GitHub user name
+twitter_username: dbStfflbr # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: 8Jplg74AAAAJ&hl # your Google Scholar ID
+orcid_id: 0000-0003-2137-985X # your ORCID ID
+researchgate_userid: David_Steffelbauer # your Researchgate user name
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is to write me an email.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
+blog_name: Research blog
 blog_description: a simple whitespace theme for academics
 
 # Pagination
@@ -44,10 +45,10 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: steffelbauer # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
+show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
 
@@ -88,7 +89,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Steffelbauer
 
   style: apa
   locale: en
