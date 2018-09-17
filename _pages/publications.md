@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: list of scientific publications (co-)authored by me
+description: a list of scientific publications (co-)authored by me
 years: [2018, 2017, 2016, 2015, 2014, 2012]
 ---
 

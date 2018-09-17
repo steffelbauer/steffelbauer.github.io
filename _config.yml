@@ -32,7 +32,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Research blog
-blog_description: a simple whitespace theme for academics
+blog_description: here I will blog in the near future about superinteresting scientific research and programming stuff
 
 # Pagination
 paginate: 4
